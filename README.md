@@ -1,10 +1,14 @@
-# Boban Acimovic - Software & Kubernetes Engineer
+# Boban Acimovic - Software Engineer
 
 [![ABLab](https://github.com/acim/acim/blob/master/ablab.png)](https://ablab.io)
 
-- [Home](https://ablab.io)
-- [Blog](https://acim.net)
-- [LinkedIn](https://www.linkedin.com/in/bobacim/)
+## A freelancer expertizing development of Cloud Native applications (Go, JavaScript) and Kubernetes
+
+## [Home](https://ablab.io)
+
+## [Blog](https://acim.net)
+
+## [LinkedIn](https://www.linkedin.com/in/bobacim/)
 
 [![Liability insurance](https://siegel.exali.de/siegel/Haftpflicht_Siegel_0_5ba949c8901bcf2d236e9a645403a393.png)](https://www.exali.de/siegel/Boban-Acimovic)
 
