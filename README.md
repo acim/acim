@@ -1,7 +1,8 @@
 # Boban Acimovic - Software & Kubernetes Engineer
 
 <p align="center">
-[![ablab.io](https://github.com/acim/acim/blob/master/ablab.png)](https://ablab.io)
+
+[![ABLab](https://github.com/acim/acim/blob/master/ablab.png)](https://ablab.io)
 
 - [Home](https://ablab.io)
 - [Blog](https://acim.net)
@@ -14,4 +15,5 @@
 ![CKAD](https://github.com/acim/acim/blob/master/ckad.jpg)
 
 ![traefik Ambassador](https://github.com/acim/acim/blob/master/traefik-ambassador.png)
+
 </p>
