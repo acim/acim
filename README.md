@@ -2,7 +2,7 @@
 
 [![ABLab](https://github.com/acim/acim/blob/master/ablab.png)](https://ablab.io)
 
-## A freelancer expertizing development of Cloud Native applications and Kubernetes. In free time I like to drive my motorcycle, go fishing or watch MotoGP
+## A freelancer expertizing Kubernetes and development of Cloud Native applications. In free time I like to drive motorcycle or watch MotoGP. Of course, I wouldn't live in Munich if I wouldn't like beer 😄
 
 ## [Home](https://ablab.io)
 
