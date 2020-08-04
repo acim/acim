@@ -4,7 +4,9 @@
 
 ## A freelancer expertizing Kubernetes and development of Cloud Native applications. In free time I like to drive motorcycle or watch MotoGP. Of course, I wouldn't live in Munich if I wouldn't like beer 😄
 
-[![acim's github stats](https://github-readme-stats.vercel.app/api?username=acim&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=acim&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acim&theme=tokyonight&layout=compact)
 
 ## [Home](https://ablab.io)
 
