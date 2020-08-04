@@ -2,7 +2,7 @@
 
 [![ABLab](https://github.com/acim/acim/blob/master/ablab.png)](https://ablab.io)
 
-## A freelancer expertizing development of Cloud Native applications (Go, JavaScript) and Kubernetes
+## A freelancer expertizing development of Cloud Native applications and Kubernetes. In free time I like to drive my motorcycle, go fishing or watch MotoGP
 
 ## [Home](https://ablab.io)
 
@@ -10,7 +10,7 @@
 
 ## [LinkedIn](https://www.linkedin.com/in/bobacim/)
 
-[![Liability insurance](https://siegel.exali.de/siegel/Haftpflicht_Siegel_0_5ba949c8901bcf2d236e9a645403a393.png)](https://www.exali.de/siegel/Boban-Acimovic)
+## [![Liability insurance](https://siegel.exali.de/siegel/Haftpflicht_Siegel_0_5ba949c8901bcf2d236e9a645403a393.png)](https://www.exali.de/siegel/Boban-Acimovic)
 
 [![CKA](https://github.com/acim/acim/blob/master/cka.jpg)](https://training.linuxfoundation.org/certification/verify/)
 
