@@ -1,6 +1,6 @@
 # Boban Acimovic - Software & Kubernetes Engineer
 
-![ablab.io](https://github.com/acim/acim/blob/master/ablab.png)
+[![ablab.io](https://github.com/acim/acim/blob/master/ablab.png)](https://ablab.io)
 
 ![CKA](https://github.com/acim/acim/blob/master/cka.jpg)
 
