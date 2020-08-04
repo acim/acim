@@ -6,4 +6,4 @@
 
 ![CKAD](https://github.com/acim/acim/blob/master/ckad.jpg)
 
-![traefik Ambassador](https://github.com/acim/acim/blob/master/treaefik-ambassador.png)
+![traefik Ambassador](https://github.com/acim/acim/blob/master/traefik-ambassador.png)
