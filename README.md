@@ -1,22 +1,14 @@
 # Boban Acimovic - Software Engineer
 
-[![ABLab](https://github.com/acim/acim/blob/master/ablab.png)](https://ablab.io)
-
-## A freelancer expertizing Kubernetes and development of Cloud Native applications. In free time I like to drive motorcycle or watch MotoGP. Of course, I wouldn't live in Munich if I wouldn't like beer 😄
+[![ABLab](https://ectobit.com/logoh.svg)](https://ectobit.com)
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=acim&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acim&theme=tokyonight&layout=compact)
 
-## [Home](https://ablab.io)
-
-## [Blog](https://acim.net)
+## [Blog](https://ectobit.com)
 
 ## [LinkedIn](https://www.linkedin.com/in/bobacim/)
-
-## Liability insurance
-
-[![Exali](https://siegel.exali.de/siegel/Haftpflicht_Siegel_0_5ba949c8901bcf2d236e9a645403a393.png)](https://www.exali.de/siegel/Boban-Acimovic)
 
 ## Certificates
 
