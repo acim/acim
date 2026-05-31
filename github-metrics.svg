@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="380" viewBox="0 0 560 380" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity</title>
+  <desc id="desc">A profile metrics card for Boban Acimovic.</desc>
+  <style>
+    .card { fill: #ffffff; stroke: #d0d7de; }
+    .header { fill: #f6f8fa; }
+    .line { stroke: #d0d7de; stroke-width: 1; }
+    .soft-line { stroke: #d8dee4; stroke-width: 1; }
+    .label { fill: #57606a; font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .title { fill: #1f2328; font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .subtitle { fill: #57606a; font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .value { fill: #1f2328; font: 600 22px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .track { fill: #eaeef2; }
+    .fill { fill: #0969da; }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="559" height="379" rx="6"/>
+  <rect class="header" x="1" y="1" width="558" height="72" rx="6"/>
+  <path class="line" d="M1 73.5h558"/>
+  <text class="title" x="16" y="32">GitHub activity</text>
+  <text class="subtitle" x="16" y="54">Profile snapshot</text>
+
+  <path class="soft-line" d="M280.5 73v176"/>
+  <path class="soft-line" d="M1 161.5h558"/>
+  <path class="soft-line" d="M1 249.5h558"/>
+
+  <text class="label" x="16" y="105">Profile focus</text>
+  <text class="value" x="16" y="138">Architecture</text>
+
+  <text class="label" x="296" y="105">Primary role</text>
+  <text class="value" x="296" y="138">Engineering</text>
+
+  <text class="label" x="16" y="193">Public work</text>
+  <text class="value" x="16" y="226">GitHub</text>
+
+  <text class="label" x="296" y="193">Writing</text>
+  <text class="value" x="296" y="226">acim.net</text>
+
+  <text class="label" x="16" y="291">Systems</text>
+  <rect class="track" x="118" y="281" width="360" height="8" rx="4"/>
+  <rect class="fill" x="118" y="281" width="317" height="8" rx="4"/>
+  <text class="label" x="500" y="291">88%</text>
+
+  <text class="label" x="16" y="324">Backend</text>
+  <rect class="track" x="118" y="314" width="360" height="8" rx="4"/>
+  <rect class="fill" x="118" y="314" width="281" height="8" rx="4"/>
+  <text class="label" x="500" y="324">78%</text>
+
+  <text class="label" x="16" y="357">Tooling</text>
+  <rect class="track" x="118" y="347" width="360" height="8" rx="4"/>
+  <rect class="fill" x="118" y="347" width="238" height="8" rx="4"/>
+  <text class="label" x="500" y="357">66%</text>
+</svg>

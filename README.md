@@ -1,9 +1,12 @@
-# Boban Acimovic - Software Engineer
+# Boban Acimovic
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=acim&theme=tokyonight)
+Software architect and software engineer.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acim&theme=tokyonight&layout=compact)
+I design and build practical software systems with a focus on clarity, reliability, and long-term maintainability.
 
-## [Blog](https://ectobit.com/)
+[![Website](https://img.shields.io/badge/Website-acim.net-0969da?style=flat-square)](https://acim.net/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-acimdotnet-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acimdotnet/)
 
-## [LinkedIn](https://www.linkedin.com/in/bobacim/)
+## Metrics
+
+![GitHub activity](github-metrics.svg)
